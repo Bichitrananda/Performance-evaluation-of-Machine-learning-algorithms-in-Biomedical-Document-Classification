@@ -1,13 +1,5 @@
 # Performance-evaluation-of-Machine-learning-algorithms-in-Biomedical-Document-Classification
-Performance evaluation of Machine learning algorithms in
-Biomedical Document Classification
-Bichitrananda Behera1
-, G.Kumaravelan2
-Department of Computer Science, Pondicherry University, Puducherry, India
-1
-bbehera19@gmail.com,
-2
-gkumaravelanpu@gmail.com
+
 Abstract
 Document classification is a prevalent task in Natural Language Processing (NLP)
 with a broad range of applications in the biomedical domain. In biomedical engineering
